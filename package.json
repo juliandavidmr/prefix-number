@@ -1,0 +1,40 @@
+{
+  "name": "prefix-number",
+  "version": "1.0.0",
+  "description": "Get the name of the country in three different languages, the prefix and the ISO",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliandavidmr/prefix-number.git"
+  },
+  "keywords": [
+    "number",
+    "phone",
+    "telephone",
+    "prefix",
+    "country",
+    "cities",
+    "iso",
+    "iso3",
+    "fr",
+    "es",
+    "en",
+    "language"
+  ],
+  "files": [
+    "data.json",
+    "index.js",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "author": "@juliandavidmr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliandavidmr/prefix-number/issues"
+  },
+  "homepage": "https://github.com/juliandavidmr/prefix-number#readme"
+}

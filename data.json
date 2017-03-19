@@ -1,0 +1,1724 @@
+{
+    "Afganistán": {
+        "name": "Afghanistan",
+        "nom": "Afghanistan",
+        "iso2": "AF",
+        "iso3": "AFG",
+        "code": 93
+    },
+    "Albania": {
+        "name": "Albania",
+        "nom": "Albanie",
+        "iso2": "AL",
+        "iso3": "ALB",
+        "code": 355
+    },
+    "Alemania": {
+        "name": "Germany",
+        "nom": "Allemagne",
+        "iso2": "DE",
+        "iso3": "DEU",
+        "code": 49
+    },
+    "Algeria": {
+        "name": "Algeria",
+        "nom": "Algérie",
+        "iso2": "DZ",
+        "iso3": "DZA",
+        "code": 213
+    },
+    "Andorra": {
+        "name": "Andorra",
+        "nom": "Andorra",
+        "iso2": "AD",
+        "iso3": "AND",
+        "code": 376
+    },
+    "Angola": {
+        "name": "Angola",
+        "nom": "Angola",
+        "iso2": "AO",
+        "iso3": "AGO",
+        "code": 244
+    },
+    "Anguila": {
+        "name": "Anguilla",
+        "nom": "Anguilla",
+        "iso2": "AI",
+        "iso3": "AIA",
+        "code": "1 264"
+    },
+    "Antártida": {
+        "name": "Antarctica",
+        "nom": "L'Antarctique",
+        "iso2": "AQ",
+        "iso3": "ATA",
+        "code": 672
+    },
+    "Antigua y Barbuda": {
+        "name": "Antigua and Barbuda",
+        "nom": "Antigua et Barbuda",
+        "iso2": "AG",
+        "iso3": "ATG",
+        "code": "1 268"
+    },
+    "Antillas Neerlandesas": {
+        "name": "Netherlands Antilles",
+        "nom": "Antilles Néerlandaises",
+        "iso2": "AN",
+        "iso3": "ANT",
+        "code": 599
+    },
+    "Arabia Saudita": {
+        "name": "Saudi Arabia",
+        "nom": "Arabie Saoudite",
+        "iso2": "SA",
+        "iso3": "SAU",
+        "code": 966
+    },
+    "Argentina": {
+        "name": "Argentina",
+        "nom": "Argentine",
+        "iso2": "AR",
+        "iso3": "ARG",
+        "code": 54
+    },
+    "Armenia": {
+        "name": "Armenia",
+        "nom": "L'Arménie",
+        "iso2": "AM",
+        "iso3": "ARM",
+        "code": 374
+    },
+    "Aruba": {
+        "name": "Aruba",
+        "nom": "Aruba",
+        "iso2": "AW",
+        "iso3": "ABW",
+        "code": 297
+    },
+    "Australia": {
+        "name": "Australia",
+        "nom": "Australie",
+        "iso2": "AU",
+        "iso3": "AUS",
+        "code": 61
+    },
+    "Austria": {
+        "name": "Austria",
+        "nom": "Autriche",
+        "iso2": "AT",
+        "iso3": "AUT",
+        "code": 43
+    },
+    "Azerbayán": {
+        "name": "Azerbaijan",
+        "nom": "L'Azerbaïdjan",
+        "iso2": "AZ",
+        "iso3": "AZE",
+        "code": 994
+    },
+    "Bélgica": {
+        "name": "Belgium",
+        "nom": "Belgique",
+        "iso2": "BE",
+        "iso3": "BEL",
+        "code": 32
+    },
+    "Bahamas": {
+        "name": "Bahamas",
+        "nom": "Bahamas",
+        "iso2": "BS",
+        "iso3": "BHS",
+        "code": "1 242"
+    },
+    "Bahrein": {
+        "name": "Bahrain",
+        "nom": "Bahreïn",
+        "iso2": "BH",
+        "iso3": "BHR",
+        "code": 973
+    },
+    "Bangladesh": {
+        "name": "Bangladesh",
+        "nom": "Bangladesh",
+        "iso2": "BD",
+        "iso3": "BGD",
+        "code": 880
+    },
+    "Barbados": {
+        "name": "Barbados",
+        "nom": "Barbade",
+        "iso2": "BB",
+        "iso3": "BRB",
+        "code": "1 246"
+    },
+    "Belice": {
+        "name": "Belize",
+        "nom": "Belize",
+        "iso2": "BZ",
+        "iso3": "BLZ",
+        "code": 501
+    },
+    "Benín": {
+        "name": "Benin",
+        "nom": "Bénin",
+        "iso2": "BJ",
+        "iso3": "BEN",
+        "code": 229
+    },
+    "Bhután": {
+        "name": "Bhutan",
+        "nom": "Le Bhoutan",
+        "iso2": "BT",
+        "iso3": "BTN",
+        "code": 975
+    },
+    "Bielorrusia": {
+        "name": "Belarus",
+        "nom": "Biélorussie",
+        "iso2": "BY",
+        "iso3": "BLR",
+        "code": 375
+    },
+    "Birmania": {
+        "name": "Myanmar",
+        "nom": "Myanmar",
+        "iso2": "MM",
+        "iso3": "MMR",
+        "code": 95
+    },
+    "Bolivia": {
+        "name": "Bolivia",
+        "nom": "Bolivie",
+        "iso2": "BO",
+        "iso3": "BOL",
+        "code": 591
+    },
+    "Bosnia y Herzegovina": {
+        "name": "Bosnia and Herzegovina",
+        "nom": "Bosnie-Herzégovine",
+        "iso2": "BA",
+        "iso3": "BIH",
+        "code": 387
+    },
+    "Botsuana": {
+        "name": "Botswana",
+        "nom": "Botswana",
+        "iso2": "BW",
+        "iso3": "BWA",
+        "code": 267
+    },
+    "Brasil": {
+        "name": "Brazil",
+        "nom": "Brésil",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "code": 55
+    },
+    "Brunéi": {
+        "name": "Brunei",
+        "nom": "Brunei",
+        "iso2": "BN",
+        "iso3": "BRN",
+        "code": 673
+    },
+    "Bulgaria": {
+        "name": "Bulgaria",
+        "nom": "Bulgarie",
+        "iso2": "BG",
+        "iso3": "BGR",
+        "code": 359
+    },
+    "Burkina Faso": {
+        "name": "Burkina Faso",
+        "nom": "Burkina Faso",
+        "iso2": "BF",
+        "iso3": "BFA",
+        "code": 226
+    },
+    "Burundi": {
+        "name": "Burundi",
+        "nom": "Burundi",
+        "iso2": "BI",
+        "iso3": "BDI",
+        "code": 257
+    },
+    "Cabo Verde": {
+        "name": "Cape Verde",
+        "nom": "Cap-Vert",
+        "iso2": "CV",
+        "iso3": "CPV",
+        "code": 238
+    },
+    "Camboya": {
+        "name": "Cambodia",
+        "nom": "Cambodge",
+        "iso2": "KH",
+        "iso3": "KHM",
+        "code": 855
+    },
+    "Camerún": {
+        "name": "Cameroon",
+        "nom": "Cameroun",
+        "iso2": "CM",
+        "iso3": "CMR",
+        "code": 237
+    },
+    "Canadá": {
+        "name": "Canada",
+        "nom": "Canada",
+        "iso2": "CA",
+        "iso3": "CAN",
+        "code": 1
+    },
+    "Chad": {
+        "name": "Chad",
+        "nom": "Tchad",
+        "iso2": "TD",
+        "iso3": "TCD",
+        "code": 235
+    },
+    "Chile": {
+        "name": "Chile",
+        "nom": "Chili",
+        "iso2": "CL",
+        "iso3": "CHL",
+        "code": 56
+    },
+    "China": {
+        "name": "China",
+        "nom": "Chine",
+        "iso2": "CN",
+        "iso3": "CHN",
+        "code": 86
+    },
+    "Chipre": {
+        "name": "Cyprus",
+        "nom": "Chypre",
+        "iso2": "CY",
+        "iso3": "CYP",
+        "code": 357
+    },
+    "Ciudad del Vaticano": {
+        "name": "Vatican City State",
+        "nom": "Cité du Vatican",
+        "iso2": "VA",
+        "iso3": "VAT",
+        "code": 39
+    },
+    "Vaticano": {
+        "name": "Vatican City State",
+        "nom": "Cité du Vatican",
+        "iso2": "VA",
+        "iso3": "VAT",
+        "code": 39
+    },
+    "Colombia": {
+        "name": "Colombia",
+        "nom": "Colombie",
+        "iso2": "CO",
+        "iso3": "COL",
+        "code": 57
+    },
+    "Comoras": {
+        "name": "Comoros",
+        "nom": "Comores",
+        "iso2": "KM",
+        "iso3": "COM",
+        "code": 269
+    },
+    "Congo": {
+        "name": "Congo",
+        "nom": "Congo",
+        "iso2": "CD",
+        "iso3": "COD",
+        "code": 243
+    },
+    "Corea del Norte": {
+        "name": "North Korea",
+        "nom": "Corée du Nord",
+        "iso2": "KP",
+        "iso3": "PRK",
+        "code": 850
+    },
+    "Corea del Sur": {
+        "name": "South Korea",
+        "nom": "Corée du Sud",
+        "iso2": "KR",
+        "iso3": "KOR",
+        "code": 82
+    },
+    "Costa de Marfil": {
+        "name": "Ivory Coast",
+        "nom": "Côte-d'Ivoire",
+        "iso2": "CI",
+        "iso3": "CIV",
+        "code": 225
+    },
+    "Costa Rica": {
+        "name": "Costa Rica",
+        "nom": "Costa Rica",
+        "iso2": "CR",
+        "iso3": "CRI",
+        "code": 506
+    },
+    "Croacia": {
+        "name": "Croatia",
+        "nom": "Croatie",
+        "iso2": "HR",
+        "iso3": "HRV",
+        "code": 385
+    },
+    "Cuba": {
+        "name": "Cuba",
+        "nom": "Cuba",
+        "iso2": "CU",
+        "iso3": "CUB",
+        "code": 53
+    },
+    "Dinamarca": {
+        "name": "Denmark",
+        "nom": "Danemark",
+        "iso2": "DK",
+        "iso3": "DNK",
+        "code": 45
+    },
+    "Dominica": {
+        "name": "Dominica",
+        "nom": "Dominique",
+        "iso2": "DM",
+        "iso3": "DMA",
+        "code": "1 767"
+    },
+    "Ecuador": {
+        "name": "Ecuador",
+        "nom": "Equateur",
+        "iso2": "EC",
+        "iso3": "ECU",
+        "code": 593
+    },
+    "Egipto": {
+        "name": "Egypt",
+        "nom": "Egypte",
+        "iso2": "EG",
+        "iso3": "EGY",
+        "code": 20
+    },
+    "El Salvador": {
+        "name": "El Salvador",
+        "nom": "El Salvador",
+        "iso2": "SV",
+        "iso3": "SLV",
+        "code": 503
+    },
+    "Emiratos Árabes Unidos": {
+        "name": "United Arab Emirates",
+        "nom": "Emirats Arabes Unis",
+        "iso2": "AE",
+        "iso3": "ARE",
+        "code": 971
+    },
+    "Eritrea": {
+        "name": "Eritrea",
+        "nom": "Erythrée",
+        "iso2": "ER",
+        "iso3": "ERI",
+        "code": 291
+    },
+    "Eslovaquia": {
+        "name": "Slovakia",
+        "nom": "Slovaquie",
+        "iso2": "SK",
+        "iso3": "SVK",
+        "code": 421
+    },
+    "Eslovenia": {
+        "name": "Slovenia",
+        "nom": "Slovénie",
+        "iso2": "SI",
+        "iso3": "SVN",
+        "code": 386
+    },
+    "España": {
+        "name": "Spain",
+        "nom": "Espagne",
+        "iso2": "ES",
+        "iso3": "ESP",
+        "code": 34
+    },
+    "Estados Unidos de América": {
+        "name": "United States of America",
+        "nom": "États-Unis d'Amérique",
+        "iso2": "US",
+        "iso3": "USA",
+        "code": 1
+    },
+    "Estonia": {
+        "name": "Estonia",
+        "nom": "L'Estonie",
+        "iso2": "EE",
+        "iso3": "EST",
+        "code": 372
+    },
+    "Etiopía": {
+        "name": "Ethiopia",
+        "nom": "Ethiopie",
+        "iso2": "ET",
+        "iso3": "ETH",
+        "code": 251
+    },
+    "Filipinas": {
+        "name": "Philippines",
+        "nom": "Philippines",
+        "iso2": "PH",
+        "iso3": "PHL",
+        "code": 63
+    },
+    "Finlandia": {
+        "name": "Finland",
+        "nom": "Finlande",
+        "iso2": "FI",
+        "iso3": "FIN",
+        "code": 358
+    },
+    "Fiyi": {
+        "name": "Fiji",
+        "nom": "Fidji",
+        "iso2": "FJ",
+        "iso3": "FJI",
+        "code": 679
+    },
+    "Francia": {
+        "name": "France",
+        "nom": "France",
+        "iso2": "FR",
+        "iso3": "FRA",
+        "code": 33
+    },
+    "Gabón": {
+        "name": "Gabon",
+        "nom": "Gabon",
+        "iso2": "GA",
+        "iso3": "GAB",
+        "code": 241
+    },
+    "Gambia": {
+        "name": "Gambia",
+        "nom": "Gambie",
+        "iso2": "GM",
+        "iso3": "GMB",
+        "code": 220
+    },
+    "Georgia": {
+        "name": "Georgia",
+        "nom": "Géorgie",
+        "iso2": "GE",
+        "iso3": "GEO",
+        "code": 995
+    },
+    "Ghana": {
+        "name": "Ghana",
+        "nom": "Ghana",
+        "iso2": "GH",
+        "iso3": "GHA",
+        "code": 233
+    },
+    "Gibraltar": {
+        "name": "Gibraltar",
+        "nom": "Gibraltar",
+        "iso2": "GI",
+        "iso3": "GIB",
+        "code": 350
+    },
+    "Granada": {
+        "name": "Grenada",
+        "nom": "Grenade",
+        "iso2": "GD",
+        "iso3": "GRD",
+        "code": "1 473"
+    },
+    "Grecia": {
+        "name": "Greece",
+        "nom": "Grèce",
+        "iso2": "GR",
+        "iso3": "GRC",
+        "code": 30
+    },
+    "Groenlandia": {
+        "name": "Greenland",
+        "nom": "Groenland",
+        "iso2": "GL",
+        "iso3": "GRL",
+        "code": 299
+    },
+    "Guadalupe": {
+        "name": "Guadeloupe",
+        "nom": "Guadeloupe",
+        "iso2": "GP",
+        "iso3": "GLP",
+        "code": ""
+    },
+    "Guam": {
+        "name": "Guam",
+        "nom": "Guam",
+        "iso2": "GU",
+        "iso3": "GUM",
+        "code": "1 671"
+    },
+    "Guatemala": {
+        "name": "Guatemala",
+        "nom": "Guatemala",
+        "iso2": "GT",
+        "iso3": "GTM",
+        "code": 502
+    },
+    "Guayana Francesa": {
+        "name": "French Guiana",
+        "nom": "Guyane française",
+        "iso2": "GF",
+        "iso3": "GUF",
+        "code": ""
+    },
+    "Guernsey": {
+        "name": "Guernsey",
+        "nom": "Guernesey",
+        "iso2": "GG",
+        "iso3": "GGY",
+        "code": ""
+    },
+    "Guinea": {
+        "name": "Guinea",
+        "nom": "Guinée",
+        "iso2": "GN",
+        "iso3": "GIN",
+        "code": 224
+    },
+    "Guinea Ecuatorial": {
+        "name": "Equatorial Guinea",
+        "nom": "Guinée Equatoriale",
+        "iso2": "GQ",
+        "iso3": "GNQ",
+        "code": 240
+    },
+    "Guinea-Bissau": {
+        "name": "Guinea-Bissau",
+        "nom": "Guinée-Bissau",
+        "iso2": "GW",
+        "iso3": "GNB",
+        "code": 245
+    },
+    "Guyana": {
+        "name": "Guyana",
+        "nom": "Guyane",
+        "iso2": "GY",
+        "iso3": "GUY",
+        "code": 592
+    },
+    "Haití": {
+        "name": "Haiti",
+        "nom": "Haïti",
+        "iso2": "HT",
+        "iso3": "HTI",
+        "code": 509
+    },
+    "Honduras": {
+        "name": "Honduras",
+        "nom": "Honduras",
+        "iso2": "HN",
+        "iso3": "HND",
+        "code": 504
+    },
+    "Hong kong": {
+        "name": "Hong Kong",
+        "nom": "Hong Kong",
+        "iso2": "HK",
+        "iso3": "HKG",
+        "code": 852
+    },
+    "Hungría": {
+        "name": "Hungary",
+        "nom": "Hongrie",
+        "iso2": "HU",
+        "iso3": "HUN",
+        "code": 36
+    },
+    "India": {
+        "name": "India",
+        "nom": "Inde",
+        "iso2": "IN",
+        "iso3": "IND",
+        "code": 91
+    },
+    "Indonesia": {
+        "name": "Indonesia",
+        "nom": "Indonésie",
+        "iso2": "ID",
+        "iso3": "IDN",
+        "code": 62
+    },
+    "Irán": {
+        "name": "Iran",
+        "nom": "Iran",
+        "iso2": "IR",
+        "iso3": "IRN",
+        "code": 98
+    },
+    "Irak": {
+        "name": "Iraq",
+        "nom": "Irak",
+        "iso2": "IQ",
+        "iso3": "IRQ",
+        "code": 964
+    },
+    "Irlanda": {
+        "name": "Ireland",
+        "nom": "Irlande",
+        "iso2": "IE",
+        "iso3": "IRL",
+        "code": 353
+    },
+    "Isla Bouvet": {
+        "name": "Bouvet Island",
+        "nom": "Bouvet Island",
+        "iso2": "BV",
+        "iso3": "BVT",
+        "code": ""
+    },
+    "Isla de Man": {
+        "name": "Isle of Man",
+        "nom": "Ile de Man",
+        "iso2": "IM",
+        "iso3": "IMN",
+        "code": 44
+    },
+    "Isla de Navidad": {
+        "name": "Christmas Island",
+        "nom": "Christmas Island",
+        "iso2": "CX",
+        "iso3": "CXR",
+        "code": 61
+    },
+    "Isla Norfolk": {
+        "name": "Norfolk Island",
+        "nom": "Île de Norfolk",
+        "iso2": "NF",
+        "iso3": "NFK",
+        "code": ""
+    },
+    "Islandia": {
+        "name": "Iceland",
+        "nom": "Islande",
+        "iso2": "IS",
+        "iso3": "ISL",
+        "code": 354
+    },
+    "Islas Bermudas": {
+        "name": "Bermuda Islands",
+        "nom": "Bermudes",
+        "iso2": "BM",
+        "iso3": "BMU",
+        "code": "1 441"
+    },
+    "Islas Caimán": {
+        "name": "Cayman Islands",
+        "nom": "Iles Caïmans",
+        "iso2": "KY",
+        "iso3": "CYM",
+        "code": "1 345"
+    },
+    "Islas Cocos (Keeling)": {
+        "name": "Cocos (Keeling) Islands",
+        "nom": "Cocos (Keeling",
+        "iso2": "CC",
+        "iso3": "CCK",
+        "code": 61
+    },
+    "Islas Cook": {
+        "name": "Cook Islands",
+        "nom": "Iles Cook",
+        "iso2": "CK",
+        "iso3": "COK",
+        "code": 682
+    },
+    "Islas de Åland": {
+        "name": "Åland Islands",
+        "nom": "Îles Åland",
+        "iso2": "AX",
+        "iso3": "ALA",
+        "code": ""
+    },
+    "Islas Feroe": {
+        "name": "Faroe Islands",
+        "nom": "Iles Féro",
+        "iso2": "FO",
+        "iso3": "FRO",
+        "code": 298
+    },
+    "Islas Georgias del Sur y Sandwich del Sur": {
+        "name": "South Georgia and the South Sandwich Islands",
+        "nom": "Géorgie du Sud et les Îles Sandwich du Sud",
+        "iso2": "GS",
+        "iso3": "SGS",
+        "code": ""
+    },
+    "Islas Heard y McDonald": {
+        "name": "Heard Island and McDonald Islands",
+        "nom": "Les îles Heard et McDonald",
+        "iso2": "HM",
+        "iso3": "HMD",
+        "code": ""
+    },
+    "Islas Maldivas": {
+        "name": "Maldives",
+        "nom": "Maldives",
+        "iso2": "MV",
+        "iso3": "MDV",
+        "code": 960
+    },
+    "Islas Malvinas": {
+        "name": "Falkland Islands (Malvinas)",
+        "nom": "Iles Falkland (Malvinas",
+        "iso2": "FK",
+        "iso3": "FLK",
+        "code": 500
+    },
+    "Islas Marianas del Norte": {
+        "name": "Northern Mariana Islands",
+        "nom": "Iles Mariannes du Nord",
+        "iso2": "MP",
+        "iso3": "MNP",
+        "code": "1 670"
+    },
+    "Islas Marshall": {
+        "name": "Marshall Islands",
+        "nom": "Iles Marshall",
+        "iso2": "MH",
+        "iso3": "MHL",
+        "code": 692
+    },
+    "Islas Pitcairn": {
+        "name": "Pitcairn Islands",
+        "nom": "Iles Pitcairn",
+        "iso2": "PN",
+        "iso3": "PCN",
+        "code": 870
+    },
+    "Islas Salomón": {
+        "name": "Solomon Islands",
+        "nom": "Iles Salomon",
+        "iso2": "SB",
+        "iso3": "SLB",
+        "code": 677
+    },
+    "Islas Turcas y Caicos": {
+        "name": "Turks and Caicos Islands",
+        "nom": "Iles Turques et Caïques",
+        "iso2": "TC",
+        "iso3": "TCA",
+        "code": "1 649"
+    },
+    "Islas Ultramarinas Menores de Estados Unidos": {
+        "name": "United States Minor Outlying Islands",
+        "nom": "États-Unis Îles mineures éloignées",
+        "iso2": "UM",
+        "iso3": "UMI",
+        "code": ""
+    },
+    "Islas Vírgenes Británicas": {
+        "name": "Virgin Islands",
+        "nom": "Iles Vierges",
+        "iso2": "VG",
+        "iso3": "VG",
+        "code": "1 284"
+    },
+    "Islas Vírgenes de los Estados Unidos": {
+        "name": "United States Virgin Islands",
+        "nom": "Îles Vierges américaines",
+        "iso2": "VI",
+        "iso3": "VIR",
+        "code": "1 340"
+    },
+    "Israel": {
+        "name": "Israel",
+        "nom": "Israël",
+        "iso2": "IL",
+        "iso3": "ISR",
+        "code": 972
+    },
+    "Italia": {
+        "name": "Italy",
+        "nom": "Italie",
+        "iso2": "IT",
+        "iso3": "ITA",
+        "code": 39
+    },
+    "Jamaica": {
+        "name": "Jamaica",
+        "nom": "Jamaïque",
+        "iso2": "JM",
+        "iso3": "JAM",
+        "code": "1 876"
+    },
+    "Japón": {
+        "name": "Japan",
+        "nom": "Japon",
+        "iso2": "JP",
+        "iso3": "JPN",
+        "code": 81
+    },
+    "Jersey": {
+        "name": "Jersey",
+        "nom": "Maillot",
+        "iso2": "JE",
+        "iso3": "JEY",
+        "code": ""
+    },
+    "Jordania": {
+        "name": "Jordan",
+        "nom": "Jordan",
+        "iso2": "JO",
+        "iso3": "JOR",
+        "code": 962
+    },
+    "Kazajistán": {
+        "name": "Kazakhstan",
+        "nom": "Le Kazakhstan",
+        "iso2": "KZ",
+        "iso3": "KAZ",
+        "code": 7
+    },
+    "Kenia": {
+        "name": "Kenya",
+        "nom": "Kenya",
+        "iso2": "KE",
+        "iso3": "KEN",
+        "code": 254
+    },
+    "Kirgizstán": {
+        "name": "Kyrgyzstan",
+        "nom": "Kirghizstan",
+        "iso2": "KG",
+        "iso3": "KGZ",
+        "code": 996
+    },
+    "Kiribati": {
+        "name": "Kiribati",
+        "nom": "Kiribati",
+        "iso2": "KI",
+        "iso3": "KIR",
+        "code": 686
+    },
+    "Kuwait": {
+        "name": "Kuwait",
+        "nom": "Koweït",
+        "iso2": "KW",
+        "iso3": "KWT",
+        "code": 965
+    },
+    "Líbano": {
+        "name": "Lebanon",
+        "nom": "Liban",
+        "iso2": "LB",
+        "iso3": "LBN",
+        "code": 961
+    },
+    "Laos": {
+        "name": "Laos",
+        "nom": "Laos",
+        "iso2": "LA",
+        "iso3": "LAO",
+        "code": 856
+    },
+    "Lesoto": {
+        "name": "Lesotho",
+        "nom": "Lesotho",
+        "iso2": "LS",
+        "iso3": "LSO",
+        "code": 266
+    },
+    "Letonia": {
+        "name": "Latvia",
+        "nom": "La Lettonie",
+        "iso2": "LV",
+        "iso3": "LVA",
+        "code": 371
+    },
+    "Liberia": {
+        "name": "Liberia",
+        "nom": "Liberia",
+        "iso2": "LR",
+        "iso3": "LBR",
+        "code": 231
+    },
+    "Libia": {
+        "name": "Libya",
+        "nom": "Libye",
+        "iso2": "LY",
+        "iso3": "LBY",
+        "code": 218
+    },
+    "Liechtenstein": {
+        "name": "Liechtenstein",
+        "nom": "Liechtenstein",
+        "iso2": "LI",
+        "iso3": "LIE",
+        "code": 423
+    },
+    "Lituania": {
+        "name": "Lithuania",
+        "nom": "La Lituanie",
+        "iso2": "LT",
+        "iso3": "LTU",
+        "code": 370
+    },
+    "Luxemburgo": {
+        "name": "Luxembourg",
+        "nom": "Luxembourg",
+        "iso2": "LU",
+        "iso3": "LUX",
+        "code": 352
+    },
+    "México": {
+        "name": "Mexico",
+        "nom": "Mexique",
+        "iso2": "MX",
+        "iso3": "MEX",
+        "code": 52
+    },
+    "Mónaco": {
+        "name": "Monaco",
+        "nom": "Monaco",
+        "iso2": "MC",
+        "iso3": "MCO",
+        "code": 377
+    },
+    "Macao": {
+        "name": "Macao",
+        "nom": "Macao",
+        "iso2": "MO",
+        "iso3": "MAC",
+        "code": 853
+    },
+    "Macedônia": {
+        "name": "Macedonia",
+        "nom": "Macédoine",
+        "iso2": "MK",
+        "iso3": "MKD",
+        "code": 389
+    },
+    "Madagascar": {
+        "name": "Madagascar",
+        "nom": "Madagascar",
+        "iso2": "MG",
+        "iso3": "MDG",
+        "code": 261
+    },
+    "Malasia": {
+        "name": "Malaysia",
+        "nom": "Malaisie",
+        "iso2": "MY",
+        "iso3": "MYS",
+        "code": 60
+    },
+    "Malawi": {
+        "name": "Malawi",
+        "nom": "Malawi",
+        "iso2": "MW",
+        "iso3": "MWI",
+        "code": 265
+    },
+    "Mali": {
+        "name": "Mali",
+        "nom": "Mali",
+        "iso2": "ML",
+        "iso3": "MLI",
+        "code": 223
+    },
+    "Malta": {
+        "name": "Malta",
+        "nom": "Malte",
+        "iso2": "MT",
+        "iso3": "MLT",
+        "code": 356
+    },
+    "Marruecos": {
+        "name": "Morocco",
+        "nom": "Maroc",
+        "iso2": "MA",
+        "iso3": "MAR",
+        "code": 212
+    },
+    "Martinica": {
+        "name": "Martinique",
+        "nom": "Martinique",
+        "iso2": "MQ",
+        "iso3": "MTQ",
+        "code": ""
+    },
+    "Mauricio": {
+        "name": "Mauritius",
+        "nom": "Iles Maurice",
+        "iso2": "MU",
+        "iso3": "MUS",
+        "code": 230
+    },
+    "Mauritania": {
+        "name": "Mauritania",
+        "nom": "Mauritanie",
+        "iso2": "MR",
+        "iso3": "MRT",
+        "code": 222
+    },
+    "Mayotte": {
+        "name": "Mayotte",
+        "nom": "Mayotte",
+        "iso2": "YT",
+        "iso3": "MYT",
+        "code": 262
+    },
+    "Micronesia": {
+        "name": "Estados Federados de",
+        "nom": "Federados Estados de",
+        "iso2": "FM",
+        "iso3": "FSM",
+        "code": 691
+    },
+    "Moldavia": {
+        "name": "Moldova",
+        "nom": "Moldavie",
+        "iso2": "MD",
+        "iso3": "MDA",
+        "code": 373
+    },
+    "Mongolia": {
+        "name": "Mongolia",
+        "nom": "Mongolie",
+        "iso2": "MN",
+        "iso3": "MNG",
+        "code": 976
+    },
+    "Montenegro": {
+        "name": "Montenegro",
+        "nom": "Monténégro",
+        "iso2": "ME",
+        "iso3": "MNE",
+        "code": 382
+    },
+    "Montserrat": {
+        "name": "Montserrat",
+        "nom": "Montserrat",
+        "iso2": "MS",
+        "iso3": "MSR",
+        "code": "1 664"
+    },
+    "Mozambique": {
+        "name": "Mozambique",
+        "nom": "Mozambique",
+        "iso2": "MZ",
+        "iso3": "MOZ",
+        "code": 258
+    },
+    "Namibia": {
+        "name": "Namibia",
+        "nom": "Namibie",
+        "iso2": "NA",
+        "iso3": "NAM",
+        "code": 264
+    },
+    "Nauru": {
+        "name": "Nauru",
+        "nom": "Nauru",
+        "iso2": "NR",
+        "iso3": "NRU",
+        "code": 674
+    },
+    "Nepal": {
+        "name": "Nepal",
+        "nom": "Népal",
+        "iso2": "NP",
+        "iso3": "NPL",
+        "code": 977
+    },
+    "Nicaragua": {
+        "name": "Nicaragua",
+        "nom": "Nicaragua",
+        "iso2": "NI",
+        "iso3": "NIC",
+        "code": 505
+    },
+    "Niger": {
+        "name": "Niger",
+        "nom": "Niger",
+        "iso2": "NE",
+        "iso3": "NER",
+        "code": 227
+    },
+    "Nigeria": {
+        "name": "Nigeria",
+        "nom": "Nigeria",
+        "iso2": "NG",
+        "iso3": "NGA",
+        "code": 234
+    },
+    "Niue": {
+        "name": "Niue",
+        "nom": "Niou",
+        "iso2": "NU",
+        "iso3": "NIU",
+        "code": 683
+    },
+    "Noruega": {
+        "name": "Norway",
+        "nom": "Norvège",
+        "iso2": "NO",
+        "iso3": "NOR",
+        "code": 47
+    },
+    "Nueva Caledonia": {
+        "name": "New Caledonia",
+        "nom": "Nouvelle-Calédonie",
+        "iso2": "NC",
+        "iso3": "NCL",
+        "code": 687
+    },
+    "Nueva Zelanda": {
+        "name": "New Zealand",
+        "nom": "Nouvelle-Zélande",
+        "iso2": "NZ",
+        "iso3": "NZL",
+        "code": 64
+    },
+    "Omán": {
+        "name": "Oman",
+        "nom": "Oman",
+        "iso2": "OM",
+        "iso3": "OMN",
+        "code": 968
+    },
+    "Países Bajos": {
+        "name": "Netherlands",
+        "nom": "Pays-Bas",
+        "iso2": "NL",
+        "iso3": "NLD",
+        "code": 31
+    },
+    "Pakistán": {
+        "name": "Pakistan",
+        "nom": "Pakistan",
+        "iso2": "PK",
+        "iso3": "PAK",
+        "code": 92
+    },
+    "Palau": {
+        "name": "Palau",
+        "nom": "Palau",
+        "iso2": "PW",
+        "iso3": "PLW",
+        "code": 680
+    },
+    "Palestina": {
+        "name": "Palestine",
+        "nom": "La Palestine",
+        "iso2": "PS",
+        "iso3": "PSE",
+        "code": ""
+    },
+    "Panamá": {
+        "name": "Panama",
+        "nom": "Panama",
+        "iso2": "PA",
+        "iso3": "PAN",
+        "code": 507
+    },
+    "Papúa Nueva Guinea": {
+        "name": "Papua New Guinea",
+        "nom": "Papouasie-Nouvelle-Guinée",
+        "iso2": "PG",
+        "iso3": "PNG",
+        "code": 675
+    },
+    "Paraguay": {
+        "name": "Paraguay",
+        "nom": "Paraguay",
+        "iso2": "PY",
+        "iso3": "PRY",
+        "code": 595
+    },
+    "Perú": {
+        "name": "Peru",
+        "nom": "Pérou",
+        "iso2": "PE",
+        "iso3": "PER",
+        "code": 51
+    },
+    "Polinesia Francesa": {
+        "name": "French Polynesia",
+        "nom": "Polynésie française",
+        "iso2": "PF",
+        "iso3": "PYF",
+        "code": 689
+    },
+    "Polonia": {
+        "name": "Poland",
+        "nom": "Pologne",
+        "iso2": "PL",
+        "iso3": "POL",
+        "code": 48
+    },
+    "Portugal": {
+        "name": "Portugal",
+        "nom": "Portugal",
+        "iso2": "PT",
+        "iso3": "PRT",
+        "code": 351
+    },
+    "Puerto Rico": {
+        "name": "Puerto Rico",
+        "nom": "Porto Rico",
+        "iso2": "PR",
+        "iso3": "PRI",
+        "code": 1
+    },
+    "Qatar": {
+        "name": "Qatar",
+        "nom": "Qatar",
+        "iso2": "QA",
+        "iso3": "QAT",
+        "code": 974
+    },
+    "Reino Unido": {
+        "name": "United Kingdom",
+        "nom": "Royaume-Uni",
+        "iso2": "GB",
+        "iso3": "GBR",
+        "code": 44
+    },
+    "República Centroafricana": {
+        "name": "Central African Republic",
+        "nom": "République Centrafricaine",
+        "iso2": "CF",
+        "iso3": "CAF",
+        "code": 236
+    },
+    "República Checa": {
+        "name": "Czech Republic",
+        "nom": "République Tchèque",
+        "iso2": "CZ",
+        "iso3": "CZE",
+        "code": 420
+    },
+    "República Dominicana": {
+        "name": "Dominican Republic",
+        "nom": "République Dominicaine",
+        "iso2": "DO",
+        "iso3": "DOM",
+        "code": "1 809"
+    },
+    "Reunión": {
+        "name": "Réunion",
+        "nom": "Réunion",
+        "iso2": "RE",
+        "iso3": "REU",
+        "code": ""
+    },
+    "Ruanda": {
+        "name": "Rwanda",
+        "nom": "Rwanda",
+        "iso2": "RW",
+        "iso3": "RWA",
+        "code": 250
+    },
+    "Rumanía": {
+        "name": "Romania",
+        "nom": "Roumanie",
+        "iso2": "RO",
+        "iso3": "ROU",
+        "code": 40
+    },
+    "Rusia": {
+        "name": "Russia",
+        "nom": "La Russie",
+        "iso2": "RU",
+        "iso3": "RUS",
+        "code": 7
+    },
+    "Sahara Occidental": {
+        "name": "Western Sahara",
+        "nom": "Sahara Occidental",
+        "iso2": "EH",
+        "iso3": "ESH",
+        "code": ""
+    },
+    "Samoa": {
+        "name": "Samoa",
+        "nom": "Samoa",
+        "iso2": "WS",
+        "iso3": "WSM",
+        "code": 685
+    },
+    "Samoa Americana": {
+        "name": "American Samoa",
+        "nom": "Les Samoa américaines",
+        "iso2": "AS",
+        "iso3": "ASM",
+        "code": "1 684"
+    },
+    "San Bartolomé": {
+        "name": "Saint Barthélemy",
+        "nom": "Saint-Barthélemy",
+        "iso2": "BL",
+        "iso3": "BLM",
+        "code": 590
+    },
+    "San Cristóbal y Nieves": {
+        "name": "Saint Kitts and Nevis",
+        "nom": "Saint Kitts et Nevis",
+        "iso2": "KN",
+        "iso3": "KNA",
+        "code": "1 869"
+    },
+    "San Marino": {
+        "name": "San Marino",
+        "nom": "San Marino",
+        "iso2": "SM",
+        "iso3": "SMR",
+        "code": 378
+    },
+    "San Martín (Francia)": {
+        "name": "Saint Martin (French part)",
+        "nom": "Saint-Martin (partie française)",
+        "iso2": "MF",
+        "iso3": "MAF",
+        "code": "1 599"
+    },
+    "San Pedro y Miquelón": {
+        "name": "Saint Pierre and Miquelon",
+        "nom": "Saint-Pierre-et-Miquelon",
+        "iso2": "PM",
+        "iso3": "SPM",
+        "code": 508
+    },
+    "San Vicente y las Granadinas": {
+        "name": "Saint Vincent and the Grenadines",
+        "nom": "Saint-Vincent et Grenadines",
+        "iso2": "VC",
+        "iso3": "VCT",
+        "code": "1 784"
+    },
+    "Santa Elena": {
+        "name": "Ascensión y Tristán de Acuña",
+        "nom": "Ascensión y Tristan de Acuña",
+        "iso2": "SH",
+        "iso3": "SHN",
+        "code": 290
+    },
+    "Santa Lucía": {
+        "name": "Saint Lucia",
+        "nom": "Sainte-Lucie",
+        "iso2": "LC",
+        "iso3": "LCA",
+        "code": "1 758"
+    },
+    "Santo Tomé y Príncipe": {
+        "name": "Sao Tome and Principe",
+        "nom": "Sao Tomé et Principe",
+        "iso2": "ST",
+        "iso3": "STP",
+        "code": 239
+    },
+    "Senegal": {
+        "name": "Senegal",
+        "nom": "Sénégal",
+        "iso2": "SN",
+        "iso3": "SEN",
+        "code": 221
+    },
+    "Serbia": {
+        "name": "Serbia",
+        "nom": "Serbie",
+        "iso2": "RS",
+        "iso3": "SRB",
+        "code": 381
+    },
+    "Seychelles": {
+        "name": "Seychelles",
+        "nom": "Les Seychelles",
+        "iso2": "SC",
+        "iso3": "SYC",
+        "code": 248
+    },
+    "Sierra Leona": {
+        "name": "Sierra Leone",
+        "nom": "Sierra Leone",
+        "iso2": "SL",
+        "iso3": "SLE",
+        "code": 232
+    },
+    "Singapur": {
+        "name": "Singapore",
+        "nom": "Singapour",
+        "iso2": "SG",
+        "iso3": "SGP",
+        "code": 65
+    },
+    "Siria": {
+        "name": "Syria",
+        "nom": "Syrie",
+        "iso2": "SY",
+        "iso3": "SYR",
+        "code": 963
+    },
+    "Somalia": {
+        "name": "Somalia",
+        "nom": "Somalie",
+        "iso2": "SO",
+        "iso3": "SOM",
+        "code": 252
+    },
+    "Sri lanka": {
+        "name": "Sri Lanka",
+        "nom": "Sri Lanka",
+        "iso2": "LK",
+        "iso3": "LKA",
+        "code": 94
+    },
+    "Sudáfrica": {
+        "name": "South Africa",
+        "nom": "Afrique du Sud",
+        "iso2": "ZA",
+        "iso3": "ZAF",
+        "code": 27
+    },
+    "Sudán": {
+        "name": "Sudan",
+        "nom": "Soudan",
+        "iso2": "SD",
+        "iso3": "SDN",
+        "code": 249
+    },
+    "Suecia": {
+        "name": "Sweden",
+        "nom": "Suède",
+        "iso2": "SE",
+        "iso3": "SWE",
+        "code": 46
+    },
+    "Suiza": {
+        "name": "Switzerland",
+        "nom": "Suisse",
+        "iso2": "CH",
+        "iso3": "CHE",
+        "code": 41
+    },
+    "Surinám": {
+        "name": "Suriname",
+        "nom": "Surinam",
+        "iso2": "SR",
+        "iso3": "SUR",
+        "code": 597
+    },
+    "Svalbard y Jan Mayen": {
+        "name": "Svalbard and Jan Mayen",
+        "nom": "Svalbard et Jan Mayen",
+        "iso2": "SJ",
+        "iso3": "SJM",
+        "code": ""
+    },
+    "Swazilandia": {
+        "name": "Swaziland",
+        "nom": "Swaziland",
+        "iso2": "SZ",
+        "iso3": "SWZ",
+        "code": 268
+    },
+    "Tadjikistán": {
+        "name": "Tajikistan",
+        "nom": "Le Tadjikistan",
+        "iso2": "TJ",
+        "iso3": "TJK",
+        "code": 992
+    },
+    "Tailandia": {
+        "name": "Thailand",
+        "nom": "Thaïlande",
+        "iso2": "TH",
+        "iso3": "THA",
+        "code": 66
+    },
+    "Taiwán": {
+        "name": "Taiwan",
+        "nom": "Taiwan",
+        "iso2": "TW",
+        "iso3": "TWN",
+        "code": 886
+    },
+    "Tanzania": {
+        "name": "Tanzania",
+        "nom": "Tanzanie",
+        "iso2": "TZ",
+        "iso3": "TZA",
+        "code": 255
+    },
+    "Territorio Británico del Océano Índico": {
+        "name": "British Indian Ocean Territory",
+        "nom": "Territoire britannique de l'océan Indien",
+        "iso2": "IO",
+        "iso3": "IOT",
+        "code": ""
+    },
+    "Territorios Australes y Antárticas Franceses": {
+        "name": "French Southern Territories",
+        "nom": "Terres australes françaises",
+        "iso2": "TF",
+        "iso3": "ATF",
+        "code": ""
+    },
+    "Timor Oriental": {
+        "name": "East Timor",
+        "nom": "Timor-Oriental",
+        "iso2": "TL",
+        "iso3": "TLS",
+        "code": 670
+    },
+    "Togo": {
+        "name": "Togo",
+        "nom": "Togo",
+        "iso2": "TG",
+        "iso3": "TGO",
+        "code": 228
+    },
+    "Tokelau": {
+        "name": "Tokelau",
+        "nom": "Tokélaou",
+        "iso2": "TK",
+        "iso3": "TKL",
+        "code": 690
+    },
+    "Tonga": {
+        "name": "Tonga",
+        "nom": "Tonga",
+        "iso2": "TO",
+        "iso3": "TON",
+        "code": 676
+    },
+    "Trinidad y Tobago": {
+        "name": "Trinidad and Tobago",
+        "nom": "Trinidad et Tobago",
+        "iso2": "TT",
+        "iso3": "TTO",
+        "code": "1 868"
+    },
+    "Tunez": {
+        "name": "Tunisia",
+        "nom": "Tunisie",
+        "iso2": "TN",
+        "iso3": "TUN",
+        "code": 216
+    },
+    "Turkmenistán": {
+        "name": "Turkmenistan",
+        "nom": "Le Turkménistan",
+        "iso2": "TM",
+        "iso3": "TKM",
+        "code": 993
+    },
+    "Turquía": {
+        "name": "Turkey",
+        "nom": "Turquie",
+        "iso2": "TR",
+        "iso3": "TUR",
+        "code": 90
+    },
+    "Tuvalu": {
+        "name": "Tuvalu",
+        "nom": "Tuvalu",
+        "iso2": "TV",
+        "iso3": "TUV",
+        "code": 688
+    },
+    "Ucrania": {
+        "name": "Ukraine",
+        "nom": "L'Ukraine",
+        "iso2": "UA",
+        "iso3": "UKR",
+        "code": 380
+    },
+    "Uganda": {
+        "name": "Uganda",
+        "nom": "Ouganda",
+        "iso2": "UG",
+        "iso3": "UGA",
+        "code": 256
+    },
+    "Uruguay": {
+        "name": "Uruguay",
+        "nom": "Uruguay",
+        "iso2": "UY",
+        "iso3": "URY",
+        "code": 598
+    },
+    "Uzbekistán": {
+        "name": "Uzbekistan",
+        "nom": "L'Ouzbékistan",
+        "iso2": "UZ",
+        "iso3": "UZB",
+        "code": 998
+    },
+    "Vanuatu": {
+        "name": "Vanuatu",
+        "nom": "Vanuatu",
+        "iso2": "VU",
+        "iso3": "VUT",
+        "code": 678
+    },
+    "Venezuela": {
+        "name": "Venezuela",
+        "nom": "Venezuela",
+        "iso2": "VE",
+        "iso3": "VEN",
+        "code": 58
+    },
+    "Vietnam": {
+        "name": "Vietnam",
+        "nom": "Vietnam",
+        "iso2": "VN",
+        "iso3": "VNM",
+        "code": 84
+    },
+    "Wallis y Futuna": {
+        "name": "Wallis and Futuna",
+        "nom": "Wallis et Futuna",
+        "iso2": "WF",
+        "iso3": "WLF",
+        "code": 681
+    },
+    "Yemen": {
+        "name": "Yemen",
+        "nom": "Yémen",
+        "iso2": "YE",
+        "iso3": "YEM",
+        "code": 967
+    },
+    "Yibuti": {
+        "name": "Djibouti",
+        "nom": "Djibouti",
+        "iso2": "DJ",
+        "iso3": "DJI",
+        "code": 253
+    },
+    "Zambia": {
+        "name": "Zambia",
+        "nom": "Zambie",
+        "iso2": "ZM",
+        "iso3": "ZMB",
+        "code": 260
+    },
+    "Zimbabue": {
+        "name": "Zimbabwe",
+        "nom": "Zimbabwe",
+        "iso2": "ZW",
+        "iso3": "ZWE",
+        "code": 263
+    }
+}
