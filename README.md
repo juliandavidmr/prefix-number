@@ -1,5 +1,7 @@
 # prefix-number
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/juliandavidmr/prefix-number.svg)](https://greenkeeper.io/)
+
 Get the name of the country in three different languages, the prefix and the ISO.
 
 ```sh
